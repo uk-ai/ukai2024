@@ -1,0 +1,11 @@
+hero:
+  title: About Us
+body: |
+  <p>This event brings together the <a target="_blank" href="https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships">Turing AI Fellows</a> and their research groups for a conference at the Natural History Museum. This is the first event organised by and delivered for the Turing AI Fellows and is the third conference that brings together the Turing AI Fellows as a cohort.</p>
+partners:
+  - label: UK Research and Innovation
+    link: https://www.ukri.org/ 
+    image: /assets/images/ukri-logo.png
+  - label: The Alan Turing Institute
+    link: https://www.turing.ac.uk/
+    image: /assets/images/turing-logo.gif

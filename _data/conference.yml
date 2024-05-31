@@ -1,0 +1,126 @@
+full_name: UK AI Conference 2023 - Turing AI Fellowship Event 
+short_name: UKAI
+name: UK AI Conference 2023 - Turing AI Fellowship Event
+instance: First
+#styling: Conference for
+# set to True if the programme is draft only.
+draft: False # set tbo True if the programme is draft only.
+hide_tentative: False
+venue: Natural History Museum
+location: London, UK
+year: 2023
+month: May
+dates:
+  - 2023-05-24
+  - 2023-05-25
+deadlines:
+  # Fill in the key dates as below.
+  - name: Abstract submission deadline
+    text: 20th April 2023 (Anywhere on Earth)
+    type: submission
+  - name: Abstract decision notifications
+    date: 3rd May 2023
+    type: decision
+# Give the submission site details here.
+submission:
+  # Whether to show the submission site.
+  show: true
+  # The URL of the submission site.
+  url: https://docs.google.com/forms/d/1vkZrPgxyKRgftoOqyrDvLe7mfG1uqq1RHaU9TCSUN1I
+  # The name of the submission site (e.g. Microsoft CMT Website)
+  name: Google Form
+# List program chairs here.      
+chairs:
+- type: Program Committee
+  people:
+  - family: Benford
+    given: Alistair
+    # Give their personal web page.  
+    url: https://www.alistairbenford.com/
+    institute: University of Birmingham
+  - family: Cabrera
+    given: Christian
+    # Give their personal web page.  
+    url: https://cabrerac.github.io/
+    institute: University of Cambridge
+  - family: Cipolina Kun
+    given: Lucia
+    # Give their personal web page.  
+    url: https://lcipolina.github.io/
+    institute: University of Bristol
+  - family: Hevia Fajardo
+    given: Mario
+    # Give their personal web page.  
+    url: https://research.birmingham.ac.uk/en/persons/mario-hevia-fajardo
+    institute: University of Birmingham 
+  - family: Koohy
+    given: Behrad
+    # Give their personal web page.  
+    url: https://www.southampton.ac.uk/people/5xql28/mr-behrad-koohy
+    institute: University of Southampton
+  - family: Scott
+    given: Ben
+    url: https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ben-scott.html
+    institute: Natural History Museum
+  - family: Slijepcevic
+    given: Inigo Val
+    # Give their personal web page.  
+    url: https://inigoval.github.io/
+    institute: University of Manchester
+  - family: Song
+    given: Pingfan
+    url: https://www.c2d3.cam.ac.uk/directory/16841/mr-pingfan-song
+    institute: University of Cambridge
+  - family: Zhang
+    given: Wenjia
+    url: https://www.linkedin.com/in/wenjia-zhang-760a55182/?trk=public-profile-join-page
+    institute: University of Warwick
+- type: Alan Turing Institute
+  people: 
+    - family: Cordier
+      given: Karen
+      url: https://www.turing.ac.uk/people/business-team/karen-cordier
+      institute: The Alan Turing Institute
+- type: UKRI/EPSRC
+  people: 
+    - family: Porcedda
+      given: Cinzia
+      url: 
+      institute: EPSRC/UKRI
+- type: Chairs
+  people:
+  - family: Lawrence
+    given: Neil D.
+    # Give their personal web page.  
+    url: https://inverseprobability.com
+    institute: University of Cambridge
+  - family: Lehre
+    given: Per Kristian
+    institute: University of Birmingham
+    url: https://www.cs.bham.ac.uk/~lehrepk/
+  - family: Liakata
+    given: Maria
+    # Give their personal web page.  
+    url: https://www.turing.ac.uk/people/researchers/maria-liakata
+    institute: Queen Mary University of London 
+  - family: Scaife
+    given: Anna
+    # Give their personal web page.  
+    url: https://research.manchester.ac.uk/en/persons/anna.scaife
+    institute: University of Manchester
+
+previous_meeting:
+  name:
+  url:
+
+map:
+  show: False
+  mapbox:
+    latitude: # latitude of map center
+    longitude: # longitude of map center
+    map_id: # mapbox id
+    access_token: # mapbox access token
+    zoom_level: 17
+    width: 100%
+    height: 500px
+      
