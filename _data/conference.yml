@@ -12,13 +12,14 @@ year: 2024
 month: Nov
 dates:
   - 2024-15-08
+  - 2024-15-08
 deadlines:
   # Fill in the key dates as below.
   - name: Abstract/Paper submission deadline
-    text: 6th September 2024 (Anywhere on Earth)
+    text: **6th September 2024 (Anywhere on Earth)**
     type: submission
   - name: Abstract/Paper decision notifications
-    date: 11th October 2024
+    date: **11th October 2024 (Anywhere on Earth)**
     type: decision
 # Give the submission site details here.
 submission:
