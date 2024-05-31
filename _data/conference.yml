@@ -8,7 +8,7 @@ draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
 venue: TBD
 location: Birmingham, UK
-year: 2023
+year: 2024
 month: Nov
 dates:
   - 2024-15-08
@@ -23,9 +23,9 @@ deadlines:
 # Give the submission site details here.
 submission:
   # Whether to show the submission site.
-  show: true
+  show: false
   # The URL of the submission site.
-  url: #
+  url: 
   # The name of the submission site (e.g. Microsoft CMT Website)
   name: TBD
 # List program chairs here.      
@@ -51,18 +51,18 @@ chairs:
     given: Pingfan
     url: https://www.c2d3.cam.ac.uk/directory/16841/mr-pingfan-song
     institute: University of Cambridge
-- type: Alan Turing Institute
-  people: 
-    - family: TBD
-      given: TBD
-      url: 
-      institute: The Alan Turing Institute
-- type: UKRI/EPSRC
-  people: 
-    - family: TBD
-      given: TBD
-      url: 
-      institute: EPSRC/UKRI
+#- type: Alan Turing Institute
+#  people: 
+#    - family: TBD
+#      given: TBD
+#      url: 
+#      institute: The Alan Turing Institute
+#- type: UKRI/EPSRC
+#  people: 
+#    - family: TBD
+#      given: TBD
+#      url: 
+#      institute: EPSRC/UKRI
 - type: Chairs
   people:
   - family: Lawrence
