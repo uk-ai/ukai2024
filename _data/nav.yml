@@ -1,8 +1,8 @@
 main:
   - label: About
     link: /ukai2024/about/
-  - label: Programme
-    link: /ukai2024/program.html
+  #- label: Programme
+  #  link: /ukai2024/program.html
 footer:
   - label: About
     link: /about
