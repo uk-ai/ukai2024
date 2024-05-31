@@ -23,14 +23,14 @@ are not limited to:
 
 Abstracts for posters must be no more than 300 words. Papers must be no more than eight pages. Pre-prints will also be accepted. We will 
 go through a double-blinded peer review process. Successful submissions will be selected to present at the 2024 UK AI Conference. Successful 
-paper submissions will be published in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/). Papers must 
-follow a one-column style similar to the standard [JMLR style](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) (although you'll need 
+paper submissions will be published in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}. Papers must 
+follow a one-column style similar to the standard [JMLR style](https://ctan.org/tex-archive/macros/latex/contrib/jmlr){:target="_blank"} (although you'll need 
 to set the header to read "Proceedings of Machine Learning Research" instead of "Journal of Machine Learning Research").  
 
 The UK AI community aims to bring like-minded people together, forging and strengthening collaborations, and more. We especially encourage 
 early career researchers to submit an abstract or paper to the upcoming conference.
 
-Important Dates:
+**Important Dates:**
 
 - Abstract/paper submission deadline: **Friday 6th September 2024**
 - Notification of decisions: **Friday 11th October 2024**
