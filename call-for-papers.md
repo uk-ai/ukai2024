@@ -3,7 +3,7 @@ layout: page
 title: Call for Papers
 ---
 
-The UK AI Community is pleased to announce the second UK AI Conference on Friday 8th November at the University of Birmingham. 
+The UK AI Community is pleased to announce the second UK AI Conference on Friday 8th November 2024. 
 In addition to plenary talks, the conference will also include short talks and poster presentations. We invite the submission 
 of papers for talks, and abstracts for posters, to be presented at the conference. This event will allow researchers nationwide 
 to share work on all aspects of AI, from theory and development to application and real-world implementation. Topics include but 
