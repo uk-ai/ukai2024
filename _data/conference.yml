@@ -7,7 +7,7 @@ instance: Second
 draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
 venue: TBD
-location: Birmingham, United Kingdom
+location: United Kingdom
 year: 2024
 month: Nov
 dates:
