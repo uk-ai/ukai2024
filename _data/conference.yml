@@ -11,7 +11,7 @@ location: The United Kingdom
 year: 2024
 month: Nov
 dates:
-  - 2024-11-08
+  - 2024-11-22
 deadlines:
   # Fill in the key dates as below.
   - name: Abstract/Paper submission deadline
@@ -63,6 +63,13 @@ chairs:
 #      given: TBD
 #      url: 
 #      institute: EPSRC/UKRI
+- type: Local Chair
+  people:
+  - family: Lehre
+    given: Per Kristian
+    # Give their personal web page.  
+    url: https://www.cs.bham.ac.uk/~lehrepk/
+    institute: University of Birmingham
 - type: Chairs
   people:
   - family: Lawrence
