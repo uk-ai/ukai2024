@@ -9,9 +9,7 @@ title: Index
 
 # Submission Site
 
-The conference submission site is available at:
-
-[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }})
+The conference submission site is available at: [{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}
 
 Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions. 
 
