@@ -20,6 +20,7 @@ are not limited to:
 - AI for Science and Healthcare
 - Smart Cities
 - Digital Twins
+- AI Systems
 
 Abstracts for posters must be no more than 300 words. Papers must be no more than eight pages. Pre-prints will also be accepted. We will 
 go through a double-blinded peer review process. Successful submissions will be selected to present at the 2024 UK AI Conference. Successful 
@@ -32,8 +33,8 @@ early career researchers to submit an abstract or paper to the upcoming conferen
 
 **Important Dates:**
 
-- Abstract/paper submission deadline: **Friday 6th September 2024**
-- Notification of decisions: **Friday 11th October 2024**
-- Conference dates: **Friday 8th November 2024**
+- Abstract submission deadline: **Friday, 4th October 2024 (Anywhere on Earth)**
+- Abstract decision notifications: Tuesday, 22nd October 2024 (Anywhere on Earth)
+- Conference date: Friday, 22nd November 2024
 
 We look forward to receiving your submissions and welcoming you to the conference.
