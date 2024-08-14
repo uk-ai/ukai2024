@@ -14,11 +14,11 @@ dates:
   - 2024-11-22
 deadlines:
   # Fill in the key dates as below.
-  - name: Abstract/Paper submission deadline
-    text: 6th September 2024 (Anywhere on Earth)
+  - name: Abstract submission deadline
+    text: 4th October 2024 (Anywhere on Earth)
     type: submission
-  - name: Abstract/Paper decision notifications
-    date: 11th October 2024 (Anywhere on Earth)
+  - name: Abstract decision notifications
+    date: 22nd October 2024 (Anywhere on Earth)
     type: decision
 # Give the submission site details here.
 submission:
@@ -47,10 +47,6 @@ chairs:
     # Give their personal web page.  
     url: https://uk.linkedin.com/in/arianna-salili
     institute: Natural History Museum
-  - family: Song
-    given: Pingfan
-    url: https://www.c2d3.cam.ac.uk/directory/16841/mr-pingfan-song
-    institute: University of Cambridge
 #- type: Alan Turing Institute
 #  people: 
 #    - family: TBD
