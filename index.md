@@ -11,7 +11,7 @@ title: Index
 
 The conference submission site is available at:
 
-[{{ site.conference.submission.name }}]({{ site.conference.submission.url }})
+[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }})
 
 Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions. 
 
