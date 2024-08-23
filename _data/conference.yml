@@ -14,10 +14,10 @@ dates:
   - 2024-11-22
 deadlines:
   # Fill in the key dates as below.
-  - name: Abstract submission deadline
+  - name: Registration deadline
     text: 4th October 2024 (Anywhere on Earth)
     type: submission
-  - name: Abstract decision notifications
+  - name: Attendance confirmation
     date: 22nd October 2024 (Anywhere on Earth)
     type: decision
 # Give the submission site details here.
