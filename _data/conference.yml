@@ -42,6 +42,11 @@ chairs:
     # Give their personal web page.  
     url: https://cabrerac.github.io/
     institute: University of Cambridge
+  - family: Kiden
+    given: Sarah
+    # Give their personal web page.  
+    url: https://www.southampton.ac.uk/people/65cclz/doctor-sarah-kiden
+    institute: University of Southampton
   - family: Salili-James
     given: Arianna
     # Give their personal web page.  
