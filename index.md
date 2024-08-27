@@ -3,16 +3,17 @@ layout: home
 title: Index
 ---
 
+# Submission Site
+
+To register for the conference and/or submit an abstract, please use this form: [{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}
+
+Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions.
+
+Due to limited capacity at the venue, emails confirming places will be sent to registered participants on Tuesday 22 October, 2024. Priority will be given to those who submit a contribution for the conference, and otherwise given on a first come, first served basis.
+
 # Key Dates 
 
 {% include listdates.html %}
-
-# Submission Site
-
-The conference submission site is available at: [{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}
-
-Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions. 
-
 
 # Organizing Committee
 
