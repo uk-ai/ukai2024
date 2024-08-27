@@ -26,7 +26,7 @@ Furthermore, those with successful submissions for talks will be allowed to subm
 [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"} after the conference date. Pre-prints will 
 also be accepted.
 
-The UK AI community aims to bring like-minded people together, forging and strengthening collaborations, and more. We especially encourage 
+The UK AI Community aims to bring like-minded people together, forging and strengthening collaborations, and more. We especially encourage 
 early career researchers to submit an abstract or paper to the upcoming conference.
 
 **Important Dates:**
