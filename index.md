@@ -3,7 +3,7 @@ layout: home
 title: Index
 ---
 
-# Submission Site
+# Registration and Abstract Submission
 
 To register for the conference and/or submit an abstract, please use this form: [{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}
 
