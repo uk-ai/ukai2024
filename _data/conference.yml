@@ -6,7 +6,7 @@ instance: Second
 # set to True if the programme is draft only.
 draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: Exchange, University of Birmingham
+venue: the Exchange, University of Birmingham
 location: Birmingham, UK
 year: 2024
 month: Nov
