@@ -1,7 +1,7 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% assign nowunix = nowunix | plus: 0%}
 {% capture conftime %}{{ site.data.conference.dates.last | date: '%s'}}{% endcapture %}{% assign conftime = conftime | plus: 0%}
 <p>The UK AI Community is pleased to announce the {{ site.data.conference.instance }} {{ site.data.conference.styling }} {{site.data.conference.full_name }} 
-  on <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }}</b> at {{ site.data.conference.location }}, University of Birmingham. In addition to plenary talks, 
+  on <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }}</b> at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. In addition to plenary talks, 
   the conference will also include short talks and poster presentations. We invite the submission of abstracts to be presented as talks or papers at the conference. 
   This event will allow researchers nationwide to share work on all aspects of AI, from theory and development to application and real-world implementation. 
 </p>
