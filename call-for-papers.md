@@ -32,7 +32,7 @@ early career researchers to submit an abstract or paper to the upcoming conferen
 **Important Dates:**
 
 - Abstract submission deadline: **Friday, 4th October 2024 (Anywhere on Earth)**
-- Abstract decision notifications: Tuesday, 22nd October 2024 (Anywhere on Earth)
-- Conference date: Friday, 22nd November 2024
+- Abstract decision notifications: **Tuesday, 22nd October 2024 (Anywhere on Earth)**
+- Conference date: **Friday, 22nd November 2024**
 
 We look forward to receiving your submissions and welcoming you to the conference.
