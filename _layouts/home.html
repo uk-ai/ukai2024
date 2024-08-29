@@ -10,7 +10,7 @@ layout: page
 
 {%if site.data.conference.proceedings.show %}<p>The <a href="{{ site.data.conference.proceedings.url }}">Proceedings of {{ site.data.conference.short_name }} {{ site.data.conference.year }}</a> are now available.</p>{% endif %}
 
-<h3>{{ site.data.conference.dates[0] | date: "%B %-d, %Y"}}<br>
+<h3><b>{{ site.data.conference.dates[0] | date: "%B %-d, %Y"}}</b><br>
     {{ site.data.conference.location }}</h3>
 
 {%if site.data.conference.image %}<center><img src="{{ site.baseurl }}/assets/images/{{ site.data.conference.image }}" alt="Conference image" width="60%"></center>{% endif %}
