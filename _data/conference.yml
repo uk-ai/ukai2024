@@ -17,9 +17,11 @@ deadlines:
   - name: Registration deadline
     text: 4th October 2024 (Anywhere on Earth)
     type: submission
+    important: True
   - name: Confirmation emails sent
     date: 22nd October 2024 (Anywhere on Earth)
     type: decision
+    important: True
 # Give the submission site details here.
 submission:
   # Whether to show the submission site.
