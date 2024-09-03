@@ -21,6 +21,8 @@ theory and development to application and real-world implementation. Topics incl
 - Digital Twins
 - AI Systems
 
+To register for the conference and/or submit an abstract, please use this form: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdx_l66FaBLRYNK0Qfn1CeaF_Kk3r5tTvvs7l58ZdH8oC5P2Q/viewform)
+
 Abstracts for posters and talks must not exceed 300 words. Successful submissions will be selected to present at the 2024 UK AI Conference. 
 Furthermore, those with successful submissions for talks will be allowed to submit their work as a paper for publication to the 
 [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"} after the conference date. Pre-prints will 
