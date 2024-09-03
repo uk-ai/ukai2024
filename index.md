@@ -9,7 +9,7 @@ To register for the conference and/or submit an abstract, please use this form: 
 
 Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for instructions.
 
-Due to capacity limits, emails confirming places will be sent to registered participants on **Tuesday 22 October, 2024**. Priority will be given to those who submit a contributed talk or poster for the conference, and otherwise given on a first come, first served basis.
+Due to capacity limits, emails confirming places will be sent to registered participants on **Tuesday, 22 October 2024**. Priority will be given to those who submit a contributed talk or poster for the conference, and otherwise given on a first come, first served basis.
 
 For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](mailto:chc79@cam.ac.uk)
 
