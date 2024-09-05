@@ -11,6 +11,7 @@ theory and development to application and real-world implementation. Topics incl
 - Machine Learning theory
 - Large Language Models
 - Generative AI
+- AI and Society
 - Ethics and Trustworthy AI
 - Human-Computer Interaction
 - Natural Language Processing
