@@ -3,10 +3,10 @@ layout: page
 ---
 
 <h1><b>The {{ site.data.conference.instance }} {{ site.data.conference.styling }} {{site.data.conference.full_name }}</b></h1>
-{% if site.ghub.edit %}
-{% capture url %}https://github.com/{{ site.github_username }}/{% if site.ghub.repository %}{{ site.ghub.repository }}{% else %}{{ site.baseurl }}{% endif %}/edit/{% if site.ghub.repository contains 'github.io' %}master{% else %}gh-pages{% endif %}/_config.yml{% endcapture %}
-<p align="right">[<a href="{{ url }}" target="_blank" onclick="ga('send', 'event', 'Edit Page', 'Edit', '{{ url }}', 13);">edit</a>]</p>
-{% endif %}
+#{% if site.ghub.edit %}
+#{% capture url %}https://github.com/{{ site.github_username }}/{% if site.ghub.repository %}{{ site.ghub.repository }}{% else %}{{ site.baseurl }}{% endif %}/edit/{% if site.ghub.repository contains 'github.io' %}master{% else %}gh-pages{% endif %}/_config.yml{% endcapture %}
+#<p align="right">[<a href="{{ url }}" target="_blank" onclick="ga('send', 'event', 'Edit Page', 'Edit', '{{ url }}', 13);">edit</a>]</p>
+#{% endif %}
 
 {%if site.data.conference.proceedings.show %}<p>The <a href="{{ site.data.conference.proceedings.url }}">Proceedings of {{ site.data.conference.short_name }} {{ site.data.conference.year }}</a> are now available.</p>{% endif %}
 
