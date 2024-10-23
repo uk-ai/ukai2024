@@ -3,6 +3,10 @@ layout: home
 title: Index
 ---
 
+# Programme
+
+Arrival and registration will begin at 9:30 on 22 November, with the opening session taking place at 10:00. The conference will close at 17:00. A full programme for the day will be published here in the near future.
+
 # Registration and Abstract Submission
 
 To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
