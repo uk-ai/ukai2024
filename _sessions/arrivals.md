@@ -1,6 +1,6 @@
 ---
 title: "Coffee, arrivals and registration"
-excerpt:
+excerpt: 
 layout: talk
 start_time: 2024-11-22 09:30
 end_time: 2024-11-22 10:00

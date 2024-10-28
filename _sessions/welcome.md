@@ -1,6 +1,6 @@
 ---
 title: "Conference welcome"
-excerpt:
+excerpt: 
 layout: talk
 start_time: 2024-11-22 10:00
 end_time: 2024-11-22 10:05
