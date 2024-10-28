@@ -1,23 +1,26 @@
 ---
-layout: workshop
-title: "Data Rivers: Carving Out the Public Domain in the Age of Generative AI"
-track: 2
-start_time: 2023-05-25 11:35
-end_time: 2023-05-25 13:05
-speaker: Sylvie Delacroix (University of Birmingham)
-location: Neil Chalmers
+layout: plenary
+title: "Keynote Talk"
+speaker: Prof. Carl Henrik Ek
+start_time: 2024-11-22 16:05
+end_time: 2024-11-22 16:50
+location: Assembly Room
+venue: The Exchange, University of Birmingham, UK.
 ---
 
-Sylvie Delacroix will share thoughts on the legal and ethical issues that arise from data in the age of the large generative AI models.
+A keynote talk from Professor Carl Henrik Ek from the Univeristy of Cambridge.
 
-### Speaker
+Carl Henrik is a Professor of Statistical Learning at the University of Cambridge 
+a visiting Professor at Karolinska Institute in Stockholm and a Docent in Machine 
+Learning at the Royal Institute of Technology, Stockholm. He is the co-Director 
+for the UKRI AI Centre for Doctoral Training in Decision Making for Complex Systems 
+which is a collaboration between University of Cambridge and the University of Manchester.
 
-Sylvie Delacroix is professor in Law and Ethics at the University of Birmingham, which she joined in January 2018, 
-coming from UCL where she was a reader in Legal Theory and Ethics, with a fractional appointment in UCL Computer Science. 
-Prior to that Sylvie was the Evelyn Green Davis Fellow at the Radcliffe Institute for Advanced Study (Harvard University, 2004-05), 
-a lecturer in Law in Kent University and a post-doctoral scholar in Trinity College, Cambridge University. 
-While in UCL Sylvie Delacroix was the founding Director of the UCL Centre for Ethics and Law, as well as the UCL Virtual 
-Environments and the Professions Group. Professor Delacroix's work has notably been funded by the Wellcome Trust, 
-the NHS and the Leverhulme Trust, from whom she received the Leverhulme Prize. Professor Delacroix has recently been appointed 
-to the Public Policy Commission on the use of algorithms in the justice system (Law Society of England and Wales).
+ His research focus on how we can specify data efficient and interpretable assumptions that 
+ allows us to learn from small amounts of data. Most of his work is focused on Bayesian 
+ non-parametric methods and in specific Gaussian processes.
 
+Before joining the Computer Lab in Cambridge Carl Henrik was a Senior Lecturer at the 
+University of Bristol, prior to this he was an Assistant Professor in Machine Learning 
+at the Royal Institute of Technology (KTH) in Stockholm. He did his postdoctoral research 
+at University of California at Berkeley and his PhD is from Oxford Brookes University. 

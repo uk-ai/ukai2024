@@ -1,9 +1,10 @@
 ---
 title: "Departures"
 layout: break
-start_time: 2023-05-25 17:15
-end_time: 2023-05-25 17:30
-location: Flett Theatre Foyer
+start_time: 2024-11-22 17:00
+end_time: 2024-11-22 17:05
+location: Assembly Room
+venue: The Exchange, University of Birmingham, UK.
 ---
 
 All good things come to an end! A chance to say good bye before heading home.
