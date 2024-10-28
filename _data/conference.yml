@@ -54,6 +54,11 @@ chairs:
     # Give their personal web page.  
     url: https://uk.linkedin.com/in/arianna-salili
     institute: Natural History Museum
+  - family: Zakka
+    given: Vincent
+    # Give their personal web page.  
+    url: https://linkedin.com/in/vincentgbouna
+    institute: Aston University
 #- type: Alan Turing Institute
 #  people: 
 #    - family: TBD
