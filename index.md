@@ -5,7 +5,7 @@ title: Index
 
 # Programme
 
-Arrival and registration will begin at 9:30 on 22 November, with the opening session taking place at 10:00. The conference will close at 17:00. A full programme for the day will be published here in the near future.
+Arrival and registration will begin at 9:30 on 22 November, with the opening session taking place at 10:00. The conference will close at 17:00. A full programme for the day can be found [here](https://uk-ai.org/ukai2024/day-1.html).
 
 # Registration and Abstract Submission
 
