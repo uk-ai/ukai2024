@@ -3,8 +3,8 @@ main:
     link: /ukai2024
   #- label: About
   #  link: /ukai2024/about/
-  #- label: Programme
-  #  link: /ukai2024/program.html
+  - label: Programme
+    link: /ukai2024/program.html
 footer:
   - label: Home
     link: /ukai2024
