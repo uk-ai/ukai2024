@@ -11,6 +11,10 @@ Arrival and registration will begin at 9:30 on 22 November, with the opening ses
 
 To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
 
+# Venue
+
+The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be bound [here](https://uk-ai.org/ukai2024/venue.html).
+
 Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for instructions.
 
 Due to capacity limits, emails confirming places will be sent to registered participants on **Tuesday, 22 October 2024**. Priority will be given to those who submit a contributed talk or poster for the conference, and otherwise given on a first come, first served basis.
