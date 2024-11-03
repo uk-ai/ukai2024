@@ -7,13 +7,13 @@ title: Index
 
 Arrival and registration will begin at 9:30 on 22 November, with the opening session taking place at 10:00. The conference will close at 17:00. A full programme for the day can be found [here](https://uk-ai.org/ukai2024/day-1.html).
 
-# Registration and Abstract Submission
-
-To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
-
 # Venue
 
 The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be bound [here](https://uk-ai.org/ukai2024/venue.html).
+
+# Registration and Abstract Submission
+
+To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
 
 Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for instructions.
 
