@@ -12,17 +12,12 @@ venue: The Exchange, University of Birmingham, UK.
 
 The first session of presentations contains short talks from researchers working on AI projects across the UK.
 
-{% comment %}
-| Start     | End      | Talk                                                                                                   | Speaker                |
-|   :----:  |   :----: |   :----:                                                                                               |   :----:               |
-| 14:30     | 14:45    | Machine Learning & Computer Vision for Automatic Label Extraction from Pinned Specimens                | Arianna Salili-James   |
-| 14:45     | 15:00    | Provably Correct Physics-Informed Neural Networks                                                      | Francisco Girbal Eiras |
-| 15:00     | 15:10    | Building Multi-purpose Models for the Next Generation of Radio Astronomy with Self-supervised Learning | Inigo Val Slijepcevic  |
-| 15:10     | 15:20    | Certifying Ensembles: A General Certification Theory with S-Lipschitzness                              | Aleksandar Petrov      |
-| 15:20     | 15:30    | Break                                                                                                  |                        |
-| 15:30     | 15:45    | Template-based Abstractive Microblog Opinion Summarization                                             | Iman Bilal             |
-| 15:45     | 16:00    | Language Disparities in Tokenization: A Case for Tokenization Parity                                   | Aleksandar Petrov      |
-| 16:00     | 16:10    | A Road from Static Datasets To Computationally Efficient Learning from Streams on Internet Scale       | Ameya Prabhu           |
-| 16:10     | 16:20    | Label Alignment for Distribution Shift Problems                                                        | Yangchen Pan           |
-| 16:20     | 16:30    | Real-world Machine Learning Systems: A survey from a Data-Oriented Architecture Perspective            | Christian Cabrera      |
-{% endcomment %}
+| Start     | End      | Talk                                                                                                                            | Speaker                |
+|   :----:  |   :----: |   :----:                                                                                                                        |   :----:               |
+| 11:45     | 11:55    | A Virtual World Café Method for Participatory Design of AI Systems                                                              | Emily Corrigan-Kavanagh|
+| 11:55     | 12:05    | Developing Sophisticated Interactions with Citizen Science Matrix Data Using Large Language Models                              | Elise Gallois          |
+| 12:05     | 12:15    | Ethics of Overpromising: the Case of AI Deployment in Health Policy                                                             | Inga Ulnicane          |
+| 12:15     | 12:25    | Certifying Ensembles: A General Certification Theory with S-Lipschitzness                                                       | Aleksandar Petrov      |
+| 12:25     | 12:35    | General Practice Eventograms (GPEGs): Predicting Emergency Hospital Admission with Human-Understandable EHR Representations     | Benjamin Post          |
+| 12:35     | 12:45    | Affinity-VAE: Incorporating Prior Knowledge in Representation Learning from Scientific Images                                   | Marjan Famili          |
+| 12:45     | 12:55    | Joint Optimisation of Placement and Price for Electric Vehicles Charging Network                                                | Niloofar Aminikalibar  |
