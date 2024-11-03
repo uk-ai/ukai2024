@@ -5,6 +5,8 @@ main:
   #  link: /ukai2024/about/
   - label: Programme
     link: /ukai2024/program.html
+  - label: Venue
+    link: /ukai2024/venue.html
 footer:
   - label: Home
     link: /ukai2024
