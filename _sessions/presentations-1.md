@@ -16,8 +16,8 @@ The first session of presentations contains short talks from researchers working
 |   :----:  |   :----: |   :----:                                                                                                                        |   :----:               |
 | 11:45     | 11:55    | A Virtual World Café Method for Participatory Design of AI Systems                                                              | Emily Corrigan-Kavanagh|
 | 11:55     | 12:05    | Developing Sophisticated Interactions with Citizen Science Matrix Data Using Large Language Models                              | Elise Gallois          |
-| 12:05     | 12:15    | Ethics of Overpromising: the Case of AI Deployment in Health Policy                                                             | Inga Ulnicane          |
-| 12:15     | 12:25    | Certifying Ensembles: A General Certification Theory with S-Lipschitzness                                                       | Aleksandar Petrov      |
+| 12:05     | 12:15    | Certifying Ensembles: A General Certification Theory with S-Lipschitzness                                                       | Aleksandar Petrov      |
+| 12:15     | 12:25    | Ethics of Overpromising: the Case of AI Deployment in Health Policy                                                             | Inga Ulnicane          |
 | 12:25     | 12:35    | General Practice Eventograms (GPEGs): Predicting Emergency Hospital Admission with Human-Understandable EHR Representations     | Benjamin Post          |
 | 12:35     | 12:45    | Affinity-VAE: Incorporating Prior Knowledge in Representation Learning from Scientific Images                                   | Marjan Famili          |
 | 12:45     | 12:55    | Joint Optimisation of Placement and Price for Electric Vehicles Charging Network                                                | Niloofar Aminikalibar  |
