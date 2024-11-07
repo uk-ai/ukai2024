@@ -4,10 +4,11 @@ title: "Presentations Session 2"
 track: 1
 start_time: 2024-11-22 14:00
 end_time: 2024-11-22 15:05
-excerpt: A selection of submitted talks from researchers.
+excerpt: A selection of submitted talks from researchers
 location: Assembly Room
-venue: The Exchange, University of Birmingham, UK.
+venue: The Exchange, University of Birmingham, UK
 ---
+
 
 The second session of presentations contains short talks from researchers working on AI projects across the UK.
 
