@@ -4,9 +4,9 @@ title: "Presentations Session 1"
 track: 1
 start_time: 2024-11-22 11:45
 end_time: 2024-11-22 13:00
-excerpt: A selection of submitted talks from researchers.
+excerpt: A selection of submitted talks from researchers
 location: Assembly Room
-venue: The Exchange, University of Birmingham, UK.
+venue: The Exchange, University of Birmingham, UK
 ---
 
 
