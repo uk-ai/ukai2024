@@ -14,8 +14,8 @@ The second session of presentations contains short talks from researchers workin
 | Start     | End      | Talk                                                                                           | Speaker                       |
 |   :----:  |   :----: |   :----:                                                                                       |   :----:                      |
 | 14:00     | 14:10    | Speeding Up Pinned Specimen Digitization: A Deep Learning Pipeline for Collaborative Robots    | Naifeng	Zhang                 |
-| 14:10     | 14:20    | Multiagent Reinforcement Learning for Adaptive Pricing in Online Competitive Congestion Games  | Behrad	Koohy                 |
+| 14:10     | 14:20    | Joint Optimisation of Placement and Price for Electric Vehicles Charging Network               | Niloofar Aminikalibar         |
 | 14:20     | 14:30    | GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models        | Mianchu	Wang                  |
 | 14:30     | 14:40    | Time Series Large Language Models (LLMs) for Building Management Data                          | Jack	Shiels                  |
-| 14:40     | 14:50    | Algorithmic syntactic causal identification                                                    | Dhurim	Cakiqi                |
+| 14:40     | 14:50    | Affinity-VAE: Incorporating Prior Knowledge in Representation Learning from Scientific Images  | Marjan Famili                 |
 | 14:50     | 15:00    | Cat Royale                                                                                     | Eike	Schneiders              |
