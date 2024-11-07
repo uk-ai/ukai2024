@@ -19,5 +19,5 @@ The first session of presentations contains short talks from researchers working
 | 12:05     | 12:15    | Certifying Ensembles: A General Certification Theory with S-Lipschitzness                                                       | Aleksandar Petrov      |
 | 12:15     | 12:25    | Ethics of Overpromising: the Case of AI Deployment in Health Policy                                                             | Inga Ulnicane          |
 | 12:25     | 12:35    | General Practice Eventograms (GPEGs): Predicting Emergency Hospital Admission with Human-Understandable EHR Representations     | Benjamin Post          |
-| 12:35     | 12:45    | Affinity-VAE: Incorporating Prior Knowledge in Representation Learning from Scientific Images                                   | Marjan Famili          |
-| 12:45     | 12:55    | Joint Optimisation of Placement and Price for Electric Vehicles Charging Network                                                | Niloofar Aminikalibar  |
+| 12:35     | 12:45    | Algorithmic syntactic causal identification                                                                                     | Dhurim	Cakiqi          |
+| 12:45     | 12:55    | Multiagent Reinforcement Learning for Adaptive Pricing in Online Competitive Congestion Games                                   | Behrad	Koohy           |
