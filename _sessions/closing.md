@@ -2,7 +2,7 @@
 title: "Closing Remarks"
 track: 3
 excerpt: 
-layout: talk
+layout: plenary
 start_time: 2024-11-22 16:50
 end_time: 2024-11-22 17:00
 location: Assembly Room
