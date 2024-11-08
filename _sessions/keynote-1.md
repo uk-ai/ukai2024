@@ -9,7 +9,9 @@ venue: The Exchange, University of Birmingham, UK.
 ---
 
 In this talk, Jennifer will describe potential uses of AI for helping local authorities 
-deliver public services, explore some of the potential ethical pitfalls which legislators 
+deliver public services. 
+
+The talk explores some of the potential ethical pitfalls which legislators 
 and public authorities are seeking to manage through guidance and regulation, and reflect 
 on what this means for the design and implementation of AI systems in the public realm.
 
