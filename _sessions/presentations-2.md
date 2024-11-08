@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: plenary
 title: "Presentations Session 2"
 track: 3
 start_time: 2024-11-22 14:00
