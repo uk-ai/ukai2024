@@ -1,5 +1,6 @@
 ---
 layout: break
+track: 1
 title: "Coffee Break and Posters Session 1"
 start_time: 2024-11-22 10:50
 end_time: 2024-11-22 11:40
@@ -10,6 +11,7 @@ venue: The Exchange, University of Birmingham, UK.
 A chance to drink coffee and see the posters being presented by the conference's participants.
 
 **Posters format**: A0 with portrait orientation.
+
 {% comment %} 
 | Board     | Poster                                                                                                                        | Author             |#
 |   :----:  |   :----:                                                                                                                      |   :----:           |
