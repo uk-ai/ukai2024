@@ -1,6 +1,7 @@
 ---
 layout: break
 title: "Coffee Break and Posters Session 2"
+track: 1
 start_time: 2024-11-22 15:05
 end_time: 2024-11-22 16:05
 location: Dining Room
