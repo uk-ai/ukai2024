@@ -1,6 +1,7 @@
 ---
 layout: plenary
 title: "Ethically Rooted AI for Public Value"
+excerpt: "This talk will describe potential uses of AI for helping local authorities deliver public services."
 speaker: Prof. Jennifer Schooling
 start_time: 2024-11-22 10:05
 end_time: 2024-11-22 10:50
@@ -9,9 +10,7 @@ venue: The Exchange, University of Birmingham, UK.
 ---
 
 In this talk, Jennifer will describe potential uses of AI for helping local authorities 
-deliver public services. 
-
-The talk explores some of the potential ethical pitfalls which legislators 
+deliver public services, explores some of the potential ethical pitfalls which legislators 
 and public authorities are seeking to manage through guidance and regulation, and reflect 
 on what this means for the design and implementation of AI systems in the public realm.
 
