@@ -1,7 +1,7 @@
 ---
 layout: plenary
 title: "Ethically Rooted AI for Public Value"
-track: 1
+track: 3
 excerpt: "The AI potential for helping local authorities deliver public services."
 speaker: Prof. Jennifer Schooling
 start_time: 2024-11-22 10:05
