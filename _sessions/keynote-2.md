@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Keynote Talk"
+title: Approximate Bayesian Inference of Composite Functions
 speaker: Prof. Carl Henrik Ek
 start_time: 2024-11-22 16:05
 end_time: 2024-11-22 16:50
