@@ -35,5 +35,5 @@ A chance to drink coffee and see the posters being presented by the conference's
 | P41|Relatively Rational: Learning of Utilities and Rationalities Jointly from Pairwise Preferences|Taku Yamagata|University of Bristol|
 | P42|Enhancing Word Complexity Prediction Through Contextual Analysis|Muhammad Uzzam|Aston University|
 | P43|Learning to Cooperate under Private Rewards|Yue Jin|University of Warwick|
-| P44|A Human-in-the-loop Multi-Robot Collaboration Framework Utilizing Large Language Models|Zhaoxing Li|University of Southampton|
+| P44|Towards Citizen-Centric Multiagent Systems Based on Large Language Models|Zhaoxing Li|University of Southampton|
 | P45|The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis|Yuxiang Zhou|King's College London|
