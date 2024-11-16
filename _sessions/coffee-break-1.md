@@ -4,7 +4,7 @@ track: 3
 title: "Coffee Break and Posters Session 1"
 start_time: 2024-11-22 10:50
 end_time: 2024-11-22 11:40
-location: Dining Room
+location: Dhani Prem/Mary Sturge Room, Catering Lounge
 venue: The Exchange, University of Birmingham, UK.
 ---
 
