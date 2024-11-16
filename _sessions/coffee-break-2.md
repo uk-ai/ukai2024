@@ -12,8 +12,8 @@ A chance to drink coffee and see the posters being presented by the conference's
 
 **Posters format**: A0 or A1 with portrait orientation.
 
-| Board        | Poster                                                                                                            | Author                        | Institution  |
-|   :----:  |   :----:                                                                                                          |   :----:                      |  :----:                      |
+| Board | Poster | Author | Institution  |
+| :----: | :----: | :----: | :----: |
 | 1|Beyond Skin Deep: Augmenting Co-Design for Aesthetic Prosthetics with Dance Data and AI|Feng Zhou|University of Nottingham|
 | 1|LOKO: Low-Rank Kalman Optimizer (LOKO) for Online Fine-Tuning of Large Models|Hossein Abdi|University of Manchester|
 | 1|Domestic Renewable Energy Utilisation Via Hybrid Battery Systems|Jan Buermann|University of Southampton|
