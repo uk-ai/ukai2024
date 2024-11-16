@@ -14,8 +14,8 @@ A chance to drink coffee and see the posters being presented by the conference's
 
 | ID        | Poster                                                                                                            | Author                        | Institution  |
 |   :----:  |   :----:                                                                                                          |   :----:                      |  :----:                      |
-| P23|Beyond Skin Deep: Augmenting Co-Design for Aesthetic Prosthetics with Dance Data and AI|Feng Zhou|the University of Nottingham|
-| P24|LOKO: Low-Rank Kalman Optimizer (LOKO) for Online Fine-Tuning of Large Models|Hossein Abdi|The University of Manchester|
+| P23|Beyond Skin Deep: Augmenting Co-Design for Aesthetic Prosthetics with Dance Data and AI|Feng Zhou|University of Nottingham|
+| P24|LOKO: Low-Rank Kalman Optimizer (LOKO) for Online Fine-Tuning of Large Models|Hossein Abdi|University of Manchester|
 | P25|Domestic Renewable Energy Utilisation Via Hybrid Battery Systems|Jan Buermann|University of Southampton|
 | P26|Improving CNN Efficiency: Passive Filter Pruning via Centrality Measures for Audio Applications|James King|University of Surrey|
 | P27|Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring|Jiazheng Li|King's College London|
