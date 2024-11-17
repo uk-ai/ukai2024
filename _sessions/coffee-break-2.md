@@ -28,7 +28,6 @@ A chance to drink coffee and see the posters being presented by the conference's
 | 4|PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games|Qinglin Zhu|King's College London|
 | 5|Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives|Runcong Zhao|King's College London|
 | 5|Supporting Nontraditional High Performance Compute Users to Benchmark and Run Deep Learning and Large Language Models on Tier 2 Systems|Simon Hartley|Birmingham University|
-| 5|Incentives in Citizen-Centric AI Systems|Sebastian Stein|University of Southampton|
 | 6|Somabotics: Creatively Embodying AI|Steve Benford|University of Nottingham|
 | 6|The London Air Quality Digital Twin|Sueda Ciftci|University of Warwick|
 | 6|No Free Lunch Theorem and Black-Box Complexity Analysis for Adversarial Optimisation|Shishen Lin|University of Birmingham|
