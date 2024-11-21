@@ -19,4 +19,3 @@ The second session of presentations contains short talks from researchers workin
 | 14:20   | 14:30  | Joint Optimisation of Placement and Price for Electric Vehicles Charging Network               | Niloofar Aminikalibar  | Aston University          |
 | 14:30   | 14:40  | Time Series Large Language Models (LLMs) for Building Management Data                          | Steven Gray            | University College London |
 | 14:40   | 14:50  | Affinity-VAE: Incorporating Prior Knowledge in Representation Learning from Scientific Images  | Marjan Famili          | Alan Turing Institute     |
-| 14:50   | 15:00  | Cat Royale                                                                                     | Eike	Schneiders       | University of Southampton |
