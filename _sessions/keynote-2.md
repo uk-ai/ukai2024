@@ -1,7 +1,8 @@
 ---
 layout: plenary
 title: Approximate Bayesian Inference of Composite Functions
-track: 1 
+track: 1
+excerpt: "A keynote talk from Professor Carl Henrik Ek on Bayesian Inference."
 speaker: Prof. Carl Henrik Ek
 start_time: 2024-11-22 16:05
 end_time: 2024-11-22 16:50
@@ -9,7 +10,7 @@ location: Assembly Room
 venue: The Exchange, University of Birmingham, UK.
 ---
 
-A keynote talk from Professor Carl Henrik Ek from the Univeristy of Cambridge.
+A keynote talk from Professor Carl Henrik Ek from University of Cambridge on Bayesian Inference.
 
 Carl Henrik is a Professor of Statistical Learning at the University of Cambridge 
 a visiting Professor at Karolinska Institute in Stockholm and a Docent in Machine 
