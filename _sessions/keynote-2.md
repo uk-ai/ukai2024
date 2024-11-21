@@ -10,7 +10,7 @@ location: Assembly Room
 venue: The Exchange, University of Birmingham, UK.
 ---
 
-A keynote talk from Professor Carl Henrik Ek from University of Cambridge on Bayesian Inference.
+A keynote talk from Professor Carl Henrik Ek from University of Cambridge on bayesian inference.
 
 Carl Henrik is a Professor of Statistical Learning at the University of Cambridge 
 a visiting Professor at Karolinska Institute in Stockholm and a Docent in Machine 
