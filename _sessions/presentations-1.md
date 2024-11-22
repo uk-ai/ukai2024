@@ -19,5 +19,5 @@ The first session of presentations contains short talks from researchers working
 | 12:05   | 12:15  | Ethics of Overpromising: the Case of AI Deployment in Health Policy                                                         | Inga Ulnicane          | University of Birmingham  |
 | 12:15   | 12:25  | General Practice Eventograms (GPEGs): Predicting Emergency Hospital Admission with Human-Understandable EHR Representations | Benjamin Post          | Imperial College London   |
 | 12:25   | 12:35  | Algorithmic syntactic causal identification                                                                                 | Dhurim	Cakiqi          | University of Birmingham  |
-| 12:35   | 12:45  | Developing Sophisticated Interactions with Citizen Science Matrix Data Using Large Language Models                          | Elise Gallois          | Natural History Museum    |
+| 12:35   | 12:45  | Using Large Language Models to engage with citizen science data                          | Elise Gallois          | Natural History Museum    |
 | 12:45   | 12:55  | Multiagent Reinforcement Learning for Adaptive Pricing in Online Competitive Congestion Games                               | Behrad	Koohy           | University of Southampton |
