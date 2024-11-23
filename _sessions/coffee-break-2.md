@@ -15,14 +15,12 @@ A chance to drink coffee and see the posters being presented by the conference's
 | Board | Poster | Author | Institution  |
 | :----: | :----: | :----: | :----: |
 | 1|Beyond Skin Deep: Augmenting Co-Design for Aesthetic Prosthetics with Dance Data and AI|Feng Zhou|University of Nottingham|
-| 1|LOKO: Low-Rank Kalman Optimizer (LOKO) for Online Fine-Tuning of Large Models|Hossein Abdi|University of Manchester|
 | 1|Domestic Renewable Energy Utilisation Via Hybrid Battery Systems|Jan Buermann|University of Southampton|
 | 2|Improving CNN Efficiency: Passive Filter Pruning via Centrality Measures for Audio Applications|James King|University of Surrey|
 | 2|Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring|Jiazheng Li|King's College London|
 | 2|DeepMesh: Mesh-Based Cardiac Motion Tracking Using Deep Learning|Qingjie Meng|University of Birmingham|
 | 3|Learning Confidence Bounds for Classification with Imbalanced Data|Matt Clifford|University of Bristol|
 | 3|AI Skills for Business: Developing the UK's Competency Framework for a Resilient Data Science and AI Profession|Matthew Forshaw|The Alan Turing Institute and Newcastle University|
-| 3|Learning Approach to Mean Field Game of Dynamic Discounting|Mastan Sharief Shaik|University of Birmingham|
 | 4|Physics-Informed Variational State-Space Gaussian Processes|Oliver Hamelijnck|University of Warwick|
 | 4|Less is more: Optimizing Selective Adapter Insertion for Federated Fine-tuning of Vision-Language Models|Pramit Saha|University of Oxford|
 | 4|PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games|Qinglin Zhu|King's College London|
