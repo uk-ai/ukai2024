@@ -31,3 +31,4 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 {% include listallchairs.html program_committee=true %}
 
+<img src="assets/images/uk-ai-organising-committee.JPG" width="300">
