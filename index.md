@@ -3,6 +3,8 @@ layout: home
 title: Index
 ---
 
+<img src="assets/images/welcome.jpg" style="width:100%;height:auto">
+
 # Programme
 
 Arrival and registration will begin at 9:30 on 22 November, with the opening session taking place at 10:00. The conference will close at 17:00. A full programme for the day can be found [here](https://uk-ai.org/ukai2024/day-1.html).
@@ -31,4 +33,4 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 {% include listallchairs.html program_committee=true %}
 
-<img src="assets/images/uk-ai-organising-committee.JPG" width="300">
+
