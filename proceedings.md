@@ -3,6 +3,8 @@ layout: page
 title: Conference Proceedings
 ---
 
+## Conference Proceedings
+
 We invite speakers and poster presenters of [The Second UK AI Conference](https://uk-ai.org/ukai2024/) to submit their work as a paper for publication to the
 [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}. Pre-prints are 
 also accepted.
