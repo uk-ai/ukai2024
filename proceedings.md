@@ -14,5 +14,6 @@ Papers must be less than eight pages without references and follow the standard 
 - Paper submission deadline: **Friday, 14th February 2025 (Anywhere on Earth)**
 - Decision notifications: **Friday, 28th March 2025 (Anywhere on Earth)**
 - Camera-ready: **Friday, 25th April 2025 (Anywhere on Earth)**
+- Publication date: **Friday, 23rd May 2025 (Anywhere on Earth)**
 
 We look forward to receiving your submissions.
