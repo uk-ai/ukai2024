@@ -17,3 +17,5 @@ Papers must be less than eight pages without references and follow the standard 
 - Publication date: **Friday, 23rd May 2025 (Anywhere on Earth)**
 
 We look forward to receiving your submissions.
+
+The [Microsoft CMT service](https://cmt3.research.microsoft.com/Conference/Recent) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
