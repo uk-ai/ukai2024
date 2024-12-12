@@ -16,7 +16,7 @@ Papers must be less than eight pages without references and follow the standard 
 - Camera-ready: **Friday, 25th April 2025 (Anywhere on Earth)**
 - Publication date: **Friday, 23rd May 2025 (Anywhere on Earth)**
 
-*** Submission Link ***
+**Submission Link**
 [TBD]
 
 We look forward to receiving your submissions.
