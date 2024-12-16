@@ -9,7 +9,7 @@ We invite speakers and poster presenters of [The Second UK AI Conference](https:
 [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}. Pre-prints are 
 also accepted.
 
-Papers must be less than eight pages without references and follow the standard [JMLR style](https://ctan.org/tex-archive/macros/latex/contrib/jmlr).
+Papers must be less than eight pages without references and follow the [UK AI Conference style](https://github.com/uk-ai/ukai-latex-template).
 
 **Important Dates:**
 
