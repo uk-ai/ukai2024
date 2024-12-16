@@ -13,6 +13,13 @@ Arrival and registration will begin at 9:30 on 22 November, with the opening ses
 
 The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be bound [here](https://uk-ai.org/ukai2024/venue.html).
 
+# Conference Proceedings
+
+We invite speakers and poster presenters of the conference to submit their work as a paper for publication to the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}.
+
+Please see the **[Proceedings page]({{ "proceedings.html" | relative_url }})** for instructions.
+
+
 # Registration and Abstract Submission
 
 To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
