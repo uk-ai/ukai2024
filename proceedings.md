@@ -9,7 +9,8 @@ We invite speakers and poster presenters of [The Second UK AI Conference](https:
 [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}. Pre-prints are 
 also accepted.
 
-Papers must be less than eight pages without references and follow the [UK AI Conference style](https://github.com/uk-ai/ukai-latex-template).
+Papers must be maximum eight pages length without references and follow the [UK AI Conference style](https://github.com/uk-ai/ukai-latex-template). 
+Authors can use appendices to provide more details if needed.
 
 **Important Dates:**
 
@@ -19,6 +20,8 @@ Papers must be less than eight pages without references and follow the [UK AI Co
 - Publication date: **Friday, 23rd May 2025 (Anywhere on Earth)**
 
 **Submission Link**:
+
+We will follow a single-blind peer review process. Please submit your paper using the link below:
 
 [Easy Chair Submission](https://easychair.org/conferences/?conf=ukai24)
 
