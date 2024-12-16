@@ -15,7 +15,7 @@ The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.
 
 # Conference Proceedings
 
-We invite speakers and poster presenters of the conference to submit their work as a paper for publication to the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}.
+We invite speakers and poster presenters of the conference to submit their work as a paper for publication in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}.
 
 Please see the **[Proceedings page]({{ "proceedings.html" | relative_url }})** for instructions.
 
