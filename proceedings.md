@@ -5,11 +5,11 @@ title: Conference Proceedings
 
 ## Conference Proceedings
 
-We invite speakers and poster presenters of [The Second UK AI Conference](https://uk-ai.org/ukai2024/) to submit their work as a paper for publication to the
+We invite speakers and poster presenters of [The Second UK AI Conference](https://uk-ai.org/ukai2024/) to submit their work as a paper for publication in the
 [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/){:target="_blank"}. Pre-prints are 
 also accepted.
 
-Papers must be maximum eight pages length without references and follow the [UK AI Conference style](https://github.com/uk-ai/ukai-latex-template). 
+Papers must be a maximum of eight pages in length without references and follow the [UK AI Conference style](https://github.com/uk-ai/ukai-latex-template). 
 Authors can use appendices to provide more details if needed.
 
 **Important Dates:**
