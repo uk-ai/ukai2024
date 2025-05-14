@@ -16,8 +16,10 @@ Authors can use appendices to provide more details if needed.
 
 - Paper submission deadline: **Friday, 14th February 2025 (Anywhere on Earth)**
 - Decision notifications: **Friday, 28th March 2025 (Anywhere on Earth)**
-- Camera-ready: **Friday, 5th May 2025 (Anywhere on Earth)**
-- Final decision: **Friday, 6th June 2025 (Anywhere on Earth)**
+- Revision submission deadline: **Friday, 5th May 2025 (Anywhere on Earth)**
+- 2nd Decision notifications: **Friday, 6th June 2025 (Anywhere on Earth)**
+
+We expect to publish the accepted papers in PMLR by the end of June 2025.
 
 **Submission Link**:
 
